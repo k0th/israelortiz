@@ -1,0 +1,27 @@
+{
+  "name": "israelortiz",
+  "version": "1.0.0",
+  "description": "Sitio web Israel Ortiz",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k0th/israelortiz.git"
+  },
+  "keywords": [
+    "personal",
+    "web",
+    "desarrollo",
+    "diseño",
+    "design",
+    "developer"
+  ],
+  "author": "Israel Ortiz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/k0th/israelortiz/issues"
+  },
+  "homepage": "https://github.com/k0th/israelortiz#readme"
+}
